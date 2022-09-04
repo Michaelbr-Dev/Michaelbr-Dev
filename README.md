@@ -6,7 +6,6 @@ Hi, I’m Michael from France, I really enjoy learning languages and frameworks 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Michaelbr-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>&nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelbr-Dev&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
-</div>
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -25,3 +24,5 @@ Hi, I’m Michael from France, I really enjoy learning languages and frameworks 
     <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
+</div>
+  
