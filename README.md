@@ -36,10 +36,10 @@
       <img 
         src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
     </a>
-    <a href="https://linkedin.com/in/michael-briquet-278478127" target="_blank">
+    <a href="https://linkedin.com/in/michael-briquet">
       <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="http://www.michaelbr-dev.fr/" target="_blank"><img src="https://img.shields.io/badge/Mon Site Web-023235.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="http://www.michaelbr-dev.fr/"><img src="https://img.shields.io/badge/Mon Site Web-023235.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Disponible%20pour%20affaire-%20-green?style=for-the-badge">
