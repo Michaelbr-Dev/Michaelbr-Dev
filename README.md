@@ -42,7 +42,7 @@
     <a href="http://www.michaelbr-dev.fr/"><img src="https://img.shields.io/badge/Mon Site Web-023235.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Disponible%20pour%20affaire-%20-green?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Disponible%20pour%20de%20nouvelles%20opportunités%20-green?style=for-the-badge">
   </p>
 </div>
   
